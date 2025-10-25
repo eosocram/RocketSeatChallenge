@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YEqqAm1zzKU=",
+  "dgSpecHash": "Ae0AbSvpdc0=",
   "success": true,
   "projectFilePath": "/home/usuario/RiderProjects/RSChallenge/RSChallenge.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/usuario/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/usuario/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/usuario/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/home/usuario/RiderProjects/RSChallenge/bin/Debug/net8.0/RSChallenge
+/home/usuario/RiderProjects/RSChallenge/bin/Debug/net8.0/RSChallenge.deps.json
+/home/usuario/RiderProjects/RSChallenge/bin/Debug/net8.0/RSChallenge.runtimeconfig.json
+/home/usuario/RiderProjects/RSChallenge/bin/Debug/net8.0/RSChallenge.dll
+/home/usuario/RiderProjects/RSChallenge/bin/Debug/net8.0/RSChallenge.pdb
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/RSChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/RSChallenge.AssemblyInfoInputs.cache
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/RSChallenge.AssemblyInfo.cs
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/RSChallenge.csproj.CoreCompileInputs.cache
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/RSChallenge.sourcelink.json
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/RSChallenge.dll
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/refint/RSChallenge.dll
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/RSChallenge.pdb
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/RSChallenge.genruntimeconfig.cache
+/home/usuario/RiderProjects/RSChallenge/obj/Debug/net8.0/ref/RSChallenge.dll
